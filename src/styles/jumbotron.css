@@ -1,0 +1,10 @@
+.jumbotron .container {
+    text-align: left !important;  
+    padding-top: 20px;
+  }
+  
+  .jumbotron .btn {
+    text-align: left !important;  
+    display: inline-block;      
+  }
+  

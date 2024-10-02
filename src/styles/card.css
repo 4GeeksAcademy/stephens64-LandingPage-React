@@ -1,0 +1,14 @@
+.card {
+    text-align: center;
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;     
+    justify-content: center;
+  }
+  
+  .card-body .btn {
+    margin-top: 15px; 
+  }
